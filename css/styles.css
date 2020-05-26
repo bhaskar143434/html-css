@@ -1,0 +1,141 @@
+body{ margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+    
+}
+
+
+h1{
+    
+    width: 40%;
+    margin: 0 auto 0 auto;
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    color:black;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #63b7af;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#63b7af ;
+}
+hr{
+    border:dotted #EAF6F6 6PX;
+    border-bottom: none;
+    width:4%;
+    margin: 100px auto;
+}
+.myButton {
+        box-shadow: 0px 1px 0px 0px #f0f7fa;
+        background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+        background-color:#33bdef;
+        border-radius:6px;
+        border:1px solid #057fd0;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family: 'Merriweather', serif;
+        font-size:15px;
+        font-weight:bold;
+        padding:6px 24px;
+        text-decoration:none;
+        text-shadow:0px -1px 0px #5b6178;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+        background-color:#019ad2;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+}
+.contat-me{
+    width: 50%;
+    
+    margin: 40px auto 60px auto;
+}
+
+}
+.contact-me{
+    width:80%;
+    margin: 100px auto 100px auto;
+}
+.top-container{
+    background-color:#abf0e9;
+    padding-top: 70px;
+   position: relative;
+   padding-bottom: 20px;
+   
+}
+.p{
+    line-height:2px;}
+
+
+.middle-container{
+    margin: 100px 0;
+ 
+}
+.bottom-container{
+    background-color:#63b7af ;
+    padding-bottom:  10px;
+    padding-top: 20px;
+    
+}
+a{
+    color:#162447;
+    font-family: 'Merriweather', serif;
+    margin: 10px 0 10px 0;
+    text-decoration:none ;
+}
+a:hover{
+    color:white;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.pol{
+    color:white;
+    font-size:0.75rem;
+    padding:20px 0px;
+
+}
+.profile{
+    padding-top: 30px;
+}
+.css-img{
+    width: 20%;
+    float:left;
+    padding-right:30px;
+}
+.html-img{
+    width: 25%;
+    float: right;
+}
+.cascading{
+    clear:left;
+}
+.markup{
+    clear: right;
+}
+
+.pro{
+    text-decoration:underline;
+}
+.top-cloud{
+    position:absolute;
+    right: 100px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:200px;
+    bottom:300px;
+}
